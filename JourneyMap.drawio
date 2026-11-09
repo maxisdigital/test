@@ -1,0 +1,16 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="whT6HolygasA3UlDcLR4">
+    <mxGraphModel dx="1080" dy="1725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3840" pageHeight="2160" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CkpTMSzTTboR27XVjRMT-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="Actor" vertex="1">
+          <mxGeometry height="60" width="30" x="540" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="CkpTMSzTTboR27XVjRMT-2" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" value="COLES" vertex="1">
+          <mxGeometry height="60" width="120" x="400" y="860" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
